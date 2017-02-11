@@ -1,0 +1,451 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Cuttie Sexy Slut</title>
+		<style type="text/css">
+		@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+		@font-face {
+			font-family: 'HelveticaNeue';
+			src: url('http://www.cuttiesexyslut.net/tpl/3/fonts/HelveticaNeue-Bold.ttf');
+		}
+		html,body{
+			margin: 0;
+			padding: 0;
+		}
+		body {
+			background-image: url('http://www.cuttiesexyslut.net/m/imageLoader.php?f=Patterns/Light/Light-Pattern-70.png&source=pattern');
+		}
+				.main{
+			margin:0 auto;
+			max-width:960px;
+			padding-top:0;
+			padding-bottom:10px;
+			padding: 4px 0;
+		}
+		.header {
+			margin: 18px auto 0;
+			padding: 3px 0;
+			border-top: 1px solid #777777;
+			border-bottom: 1px solid #303030;
+			max-width: 828px;
+			border-radius: 5px 5px 5px 5px;
+			background-color: #151515;
+			background-image: -ms-linear-gradient(bottom, #151515 0%, #2c2c2c 100%);
+			background-image: -moz-linear-gradient(bottom, #151515 0%, #2c2c2c 100%);
+			background-image: -o-linear-gradient(bottom, #151515 0%, #2c2c2c 100%);
+			background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #151515), color-stop(1, #2c2c2c));
+			background-image: -webkit-linear-gradient(bottom, #151515 0%, #2c2c2c 100%);
+			background-image: linear-gradient(to top, #151515 0%, #2c2c2c 100%);
+			filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#2c2c2c', endColorstr='#151515');
+		}
+		.header h1 {
+			color: #ffffff;
+			font-size:36px;
+			font-family: 'Open Sans', sans-serif; 
+			font-weight:bold;
+			text-transform:uppercase;
+			text-align:center;
+			margin:0;
+			letter-spacing: -0.35px;
+		}
+		.description {
+			color: #2dcb73;
+			font-size: 20px;
+			font-family: 'Open Sans', sans-serif;
+			font-weight: bold;
+			text-transform:uppercase;
+			text-align:center;
+			margin-top: 15px;
+			letter-spacing: -0.25px;
+		}
+		.counter {
+			margin-top: 49px;
+			text-align: center;
+		}
+		ul#countdown {
+			padding: 0;
+		}
+		ul#countdown li {
+			display: inline-block;
+			width: 80px;
+			text-align: center;
+			border-radius: 8px 8px 8px 8px;
+			margin: 0 16px;
+		}
+		ul#countdown li.bg_1 {
+			background: transparent url('http://www.cuttiesexyslut.net/tpl/3/images/counter_bg_1.png') no-repeat;
+			background-position-x: 3px;
+		}
+		ul#countdown li.bg_2 {
+			background: transparent url('http://www.cuttiesexyslut.net/tpl/3/images/counter_bg_2.png') no-repeat;
+			background-position-x: 3px;
+		}
+		ul#countdown li span {
+			font-size: 40px;
+			font-family: 'HelveticaNeue';
+			font-weight: bold;
+			color: #ffffff;
+			line-height: 87px;
+			position: relative;
+		}
+		ul#countdown li.bg_1 span::before {
+			content: '';
+			width: 100%;
+			height: 1px;
+			border-top: 1px solid #5b667a;
+			position: absolute;
+			top: 15px;
+		}
+		ul#countdown li.bg_2 span::before {
+			content: '';
+			width: 100%;
+			height: 1px;
+			border-top: 1px solid #15ae59;
+			position: absolute;
+			top: 15px;
+		}
+		ul#countdown li p.timeRefDays,
+		ul#countdown li p.timeRefHours,
+		ul#countdown li p.timeRefMinutes,
+		ul#countdown li p.timeRefSeconds {
+			font-family: 'HelveticaNeue';
+			font-weight: bold;
+			font-size: 12px;
+			color: #6f7786;
+			text-transform: uppercase;
+			margin-top: 11px;
+			letter-spacing: -1px;
+		}
+		.answers {
+			margin: 29px auto 0;
+		}
+		.answers-row {
+			text-align: center;
+			margin-bottom: 10px;
+		}
+
+		.answer{
+			background-color: #2dcb73;
+			display: inline-block;
+			border-radius: 5px 5px 5px 5px;
+			color: #ffffff;
+			font-size: 20px;
+			font-family: 'Open Sans', sans-serif;
+			font-weight: bold;
+			text-transform:uppercase;
+			text-decoration: none;
+			letter-spacing: -0.16px;
+			padding: 9.5px 21px;
+			height: 31.5px;
+			margin-bottom: 20px;
+		}
+		.answer:first-child {
+			margin-right: 16px;
+		}
+		.opt_in_field {
+			text-align: center;
+		}
+		.name_field input,
+		.email_field input {
+			border-radius: 5px 5px 5px 5px;
+			padding: 9px;
+			width: 300px;
+		}
+		.send_button {
+			background-color: #2dcb73;	
+			border-radius: 5px 5px 5px 5px;
+			border: transparent;
+			color: #ffffff;
+			font-size: 20px;
+			font-family: 'Open Sans', sans-serif;
+			font-weight: bold;
+			text-transform: uppercase;
+			cursor: pointer;
+			padding: 9px;
+		}
+		.galleryImageHolder {
+			width: 190px;
+			height: 190px;
+			float: left;
+			border: 4px solid #725f51;
+			border-radius: 15px;
+			margin: 0 0 20px 0;
+			text-align: center;
+			position: relative;
+			overflow: hidden;
+		}
+		.gallery {
+			margin: 40px auto;
+			width: 643px;
+		}
+		img.loader {
+			position: absolute;
+			top: 5%;
+			left: 25%;
+			margin-top: 30px;
+		}
+		.gallery img.galleryImage {
+			border: 4px solid #725f51;
+			width: 193px;
+			height: 193px;
+			margin-bottom: 10px;
+		}
+				.galleryImageHolder {
+			border-radius: 120px;
+		}
+				.galleryImageHolder:not(:nth-of-type(3n+0)) {
+			margin-right: 20px;
+		}
+		.gallery_title {
+			margin: 15px 0 20px 0;
+			text-align: center;
+			color: #2DCB73;
+			font: 22px 'HelveticaNeue';
+		}
+		@media (max-width: 915px){
+			.main {
+				padding: 0;
+				height: 100px;
+			}
+			.description {
+				margin: 76px auto 0;
+				max-width: 430px;
+				line-height: 26px;
+			}
+			.counter {
+				margin-top: 51px;
+			}
+			.answers{
+				margin: 0px auto 0;
+				padding: 8px 24px;
+				height: 34px;
+			}
+			.answers-row {
+				margin-bottom: 0;
+			}
+			.answer{
+				margin-bottom: 10px;
+				font-size: 24px;
+				padding: 9.5px 24px;
+			}
+			.answer:first-child {
+				margin-right: 0;
+			}
+		}
+		@media (max-width: 590px){
+			.main {
+				padding: 0;
+			}
+			.header {
+				margin: 0 auto;
+				padding: 18px 0px;
+			}
+			.header h1 {
+				font-size: 16px;
+			}
+			.description {
+				font-size: 14px;
+				margin: 18px auto 0;
+				line-height: 19px;
+			}
+			.counter {
+				margin-top: -2px;
+			}
+			ul#countdown {
+				margin-bottom: 0;
+			}
+			ul#countdown li {
+				width: 55px;
+				margin: 0 2px;
+			}
+			ul#countdown li span {	
+				line-height: 61px;
+			}
+			ul#countdown li.bg_1 {
+				background: transparent url('http://www.cuttiesexyslut.net/tpl/3/images/counter_bg_1_sm.png') no-repeat;
+				background-position-x: 3px;
+			}
+			ul#countdown li.bg_2 {
+				background: transparent url('http://www.cuttiesexyslut.net/tpl/3/images/counter_bg_2_sm.png') no-repeat;
+				background-position-x: 3px;
+			}
+			ul#countdown li span {
+				font-size: 32px;
+			}
+			ul#countdown li.bg_1 span::before {
+				border-top: 2px solid #5b667a;
+				top: 10px;
+			}
+			ul#countdown li.bg_2 span::before {
+				border-top: 2px solid #15ae59;
+				top: 10px;
+			}
+			ul#countdown li p.timeRefDays,
+			ul#countdown li p.timeRefHours,
+			ul#countdown li p.timeRefMinutes,
+			ul#countdown li p.timeRefSeconds {
+				margin-top: 1px;
+				margin-bottom: 0;
+			}
+			.answers {
+				margin: 9px auto 0;
+			}
+			.answer {
+				font-size: 1em;	
+				padding: 9px 18px;
+				margin-bottom: 11px;
+				height: 18px;
+			}
+		}
+		.question {
+			font: bold 30px 'Open Sans';
+			color: #2DCB73;
+		}
+						div.counter {
+			display: none;
+		}
+				</style>
+		<!--[if gte IE 9]>
+		  <style type="text/css">
+			.gradient {
+			   filter: none;
+			}
+		  </style>
+		<![endif]-->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+			</head>
+	<body data-type="backgroundImage">
+		<img src="m/pixel.php?id=2920&mode=v&client=108.62.18.187&l=&d=" style="position:absolute;left:0;top:0">
+		<div class="wrapper">
+			<div class="main">
+				<div class="header"><h1>! ... real ladies!</h1></div>
+				<p class="description">The next page is only for adults!</p>
+				<div class="counter">
+					<ul id="countdown" data-type="counter">
+						<li class="bg_1"> <span class="days">00</span>
+							<p class="timeRefDays">days</p>
+						</li>
+						<li class="bg_2"> <span class="hours">00</span>
+							<p class="timeRefHours">hours</p>
+						</li>
+						<li class="bg_1"> <span class="minutes">00</span>
+							<p class="timeRefMinutes">minutes</p>
+						</li>
+						<li class="bg_2"> <span class="seconds">00</span>
+							<p class="timeRefSeconds">seconds</p>
+						</li>
+					</ul>
+				</div>
+				<div class="answers">
+					<center>
+											<!-- TEXT ONLY ANSWERS START -->
+						<div class='questionblocks' id='question7'>
+							<div class="question"><p>You are?</p></div>
+															<a class="answer" href="javascript:void(0);" data-target-type="3" data-target-id="1">Male</a>
+															<a class="answer" href="javascript:void(0);" data-target-type="3" data-target-id="2">Female</a>
+													</div>
+						<!-- TEXT ONLY ANSWERS END -->
+											<!-- TEXT ONLY ANSWERS START -->
+						<div class='questionblocks' id='question22'>
+							<div class="question"><p>How Old Are You?</p></div>
+															<a class="answer" href="javascript:void(0);" data-target-type="1" data-target-id="18-25">18 - 25</a>
+															<a class="answer" href="javascript:void(0);" data-target-type="1" data-target-id="26-100">25+</a>
+													</div>
+						<!-- TEXT ONLY ANSWERS END -->
+										</center>
+										<div class='gallery_title'>They are waiting!</div>
+					<div class='gallery'>
+												<div class='galleryImageHolder'>
+							<img class='loader' src='http://www.cuttiesexyslut.net/loader100.gif'>
+							<img class='galleryimage' src='http://www.cuttiesexyslut.net/m/imageLoader.php?f=TPLGalleries/girl-182.png&amp;source=tpl_gallery&amp;w=190&amp;h=190' alt='' />
+						</div>
+												<div class='galleryImageHolder'>
+							<img class='loader' src='http://www.cuttiesexyslut.net/loader100.gif'>
+							<img class='galleryimage' src='http://www.cuttiesexyslut.net/m/imageLoader.php?f=TPLGalleries/girl-297.png&amp;source=tpl_gallery&amp;w=190&amp;h=190' alt='' />
+						</div>
+												<div class='galleryImageHolder'>
+							<img class='loader' src='http://www.cuttiesexyslut.net/loader100.gif'>
+							<img class='galleryimage' src='http://www.cuttiesexyslut.net/m/imageLoader.php?f=TPLGalleries/girl-350.png&amp;source=tpl_gallery&amp;w=190&amp;h=190' alt='' />
+						</div>
+												<div class='galleryImageHolder'>
+							<img class='loader' src='http://www.cuttiesexyslut.net/loader100.gif'>
+							<img class='galleryimage' src='http://www.cuttiesexyslut.net/m/imageLoader.php?f=TPLGalleries/girl-326.png&amp;source=tpl_gallery&amp;w=190&amp;h=190' alt='' />
+						</div>
+												<div class='galleryImageHolder'>
+							<img class='loader' src='http://www.cuttiesexyslut.net/loader100.gif'>
+							<img class='galleryimage' src='http://www.cuttiesexyslut.net/m/imageLoader.php?f=TPLGalleries/girl-327.png&amp;source=tpl_gallery&amp;w=190&amp;h=190' alt='' />
+						</div>
+												<div class='galleryImageHolder'>
+							<img class='loader' src='http://www.cuttiesexyslut.net/loader100.gif'>
+							<img class='galleryimage' src='http://www.cuttiesexyslut.net/m/imageLoader.php?f=TPLGalleries/girl-328.png&amp;source=tpl_gallery&amp;w=190&amp;h=190' alt='' />
+						</div>
+											</div>
+									</div>
+			</div>
+		</div>
+
+		<script type="text/javascript">
+
+			var galleryimage = $('.galleryimage');
+			var loader = $('.loader');
+
+			galleryimage.hide();
+
+			galleryimage.on('load', function() {
+				$(this).fadeIn();
+				$(this).siblings().fadeOut();
+			});
+			
+			var mq = [22, 7];
+			var a = '', g = '', c = [], o = [];
+
+			$(document).ready(function(){
+				$('.questionblocks').hide();
+				$('#question'+mq.shift()).fadeIn();
+			});
+
+			$('.answer').click(function() {
+				var v = $(this).data('target-id');
+				switch(parseInt($(this).data('target-type')))
+				{
+					case 1 : a = v;
+					break;
+					case 2 : c.push(v);
+					break;
+					case 3 : g = v;
+					break;
+					case 4 : o.push(v);
+					break;
+					case 5 : $(this).parent().parent().fadeOut(function() {
+						$('#question'+v).fadeIn();});
+						return false;
+				} 
+				if (mq.length > 0) {
+						
+						$(this).parent().fadeOut(function() {$('#question'+mq.shift()).fadeIn();});
+						
+				}
+				else {
+						$('.questionblocks').fadeOut('slow');
+						$('body').append('<form id="lf" action="http://www.meetladies.ga" method="POST">');
+						$('#lf').append('<input type="hidden" name="id" value="2920">');
+						$('#lf').append('<input type="hidden" name="r" value="">');
+						$('#lf').append('<input type="hidden" name="a" value="'+a+'">');
+						$('#lf').append('<input type="hidden" name="g" value="'+g+'">');
+												
+						for (var i in c) {
+							$('#lf').append('<input type="hidden" name="c[]" value="'+c[i]+'">');
+						}
+						for (var i in o) {
+							$('#lf').append('<input type="hidden" name="o[]" value="'+o[i]+'">');
+						}
+						$('#lf').submit();
+					}   
+			});   
+			</script>
+			
+
+	</body>
+</html>
